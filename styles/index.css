@@ -1,0 +1,12 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+}
+
+#p1 {
+  font-family: "fira sans", sans-serif;
+  color: #ffe296;
+  font-weight: bold;
+  font-size: large;
+}

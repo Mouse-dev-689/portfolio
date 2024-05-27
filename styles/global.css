@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: #343b43;
+  margin: 50px;
+}
+a {
+  color: salmon;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: coral;
+}
+
+p {
+  font-family: "fira sans", sans-serif;
+  color: #a2aaad;
+}
+
+#p1 {
+  font-family: "fira sans", sans-serif;
+  color: #ffe296;
+  font-weight: bold;
+  font-size: large;
+}
